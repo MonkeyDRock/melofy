@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87510348335",
+    "project_id": "melofy-music",
+    "storage_bucket": "melofy-music.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87510348335:android:5ff8d35cea9340e2248cda",
+        "android_client_info": {
+          "package_name": "com.example.melofy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87510348335-6r29osl6mb6dnoq6huil29skna7885ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melofy",
+            "certificate_hash": "b494b5a4adab6d73bc3db14ce90880c8dc395dc8"
+          }
+        },
+        {
+          "client_id": "87510348335-j0e2jkmtjd3r3gj0j6cvnab89ab316is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTVNo9CqqXPqVWeXJTdCRAFCAwYma2MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87510348335-j0e2jkmtjd3r3gj0j6cvnab89ab316is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

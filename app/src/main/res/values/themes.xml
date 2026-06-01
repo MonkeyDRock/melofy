@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Melofy" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#22C55E</item>
+        <item name="colorSecondary">#4ADE80</item>
+        <item name="android:statusBarColor">#0A0F14</item>
+        <item name="android:navigationBarColor">#0A0F14</item>
+    </style>
+</resources>
