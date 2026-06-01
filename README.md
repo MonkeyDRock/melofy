@@ -2,22 +2,20 @@
 
 <div align="center">
 
-<img src="assets/demo.gif" width="100%" alt="Melofy Demo"/>
+# 🎵 Cyberpunk Music & Podcast Streaming App
 
-### Cyberpunk Music & Podcast Streaming Experience
-
-<p>
-A premium Android streaming platform built with Kotlin, Jetpack Compose, AI-powered recommendations, and immersive Cyberpunk aesthetics.
-</p>
+Modern Android music and podcast streaming experience built with **Kotlin**, **Jetpack Compose**, **Clean Architecture**, **Hilt**, and futuristic **Cyberpunk UI** design.
 
 <p>
 <img src="https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin"/>
 <img src="https://img.shields.io/badge/Android-API%2026+-green?logo=android"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-Latest-blue"/>
 <img src="https://img.shields.io/badge/Hilt-DI-orange"/>
-<img src="https://img.shields.io/badge/MVVM-Clean%20Architecture-red"/>
+<img src="https://img.shields.io/badge/Architecture-Clean%20MVVM-red"/>
 <img src="https://img.shields.io/badge/UI-Cyberpunk-pink"/>
 </p>
+
+### 🚀 AI Powered • Voice Search • Music Streaming • Podcast Platform
 
 </div>
 
@@ -25,192 +23,137 @@ A premium Android streaming platform built with Kotlin, Jetpack Compose, AI-powe
 
 # ✨ Overview
 
-Melofy is a next-generation Android music and podcast streaming application designed to deliver an immersive entertainment experience through modern Android technologies and futuristic design principles.
+Melofy is a premium Android streaming application designed to deliver a futuristic media experience.
 
 The application combines:
 
-* 🎵 Music Streaming
-* 🎙 Podcast Playback
-* 🤖 AI DJ Assistant
-* 🎤 Voice Search
+* 🎵 High-quality music playback
+* 🎙 Podcast streaming
+* 🤖 AI DJ recommendations
+* 🎤 Voice-powered search
 * ✨ Glassmorphism UI
-* 🌈 Dynamic Animated Backgrounds
-* ⚡ Fluid Compose Animations
-* 🚀 High Performance Media Playback
+* 🌈 Dynamic gradients
+* ⚡ Smooth animations
+* 🚀 Modern Android architecture
 
-Built using:
-
-* Kotlin
-* Jetpack Compose
-* Hilt
-* Coroutines
-* Flow
-* MVVM
-* Clean Architecture
-
----
-
-# 🎬 Live Preview
-
-<p align="center">
-<img src="assets/demo.gif" width="900"/>
-</p>
+Built completely with Jetpack Compose and modern Android development best practices.
 
 ---
 
 # 📸 Screenshots
 
-## Splash Experience
+## 🚀 Splash Screen
 
 <p align="center">
-<img src="./splash.jpg" width="250"/>
+  <img src="screenshots/splash.jpg" width="280"/>
 </p>
 
 ---
 
-## Home Experience
+## 🏠 Home Experience
 
 <p align="center">
-<img src="./home.jpg" width="250"/>
-<img src="./home2.jpg" width="250"/>
+  <img src="screenshots/home.jpg" width="280"/>
+  <img src="screenshots/home2.jpg" width="280"/>
 </p>
 
 ---
 
-## Search & Discovery
+## 🔍 Search & Discovery
 
 <p align="center">
-<img src="./search.jpg" width="250"/>
+  <img src="screenshots/search.jpg" width="280"/>
 </p>
 
 ---
 
-## AI DJ Assistant
+## 🤖 AI DJ Assistant
 
 <p align="center">
-<img src="./ai feature.jpg" width="250"/>
+  <img src="screenshots/ai%20feature.jpg" width="280"/>
 </p>
 
 ---
 
-## Music Player
+## 🎵 Music Player
 
 <p align="center">
-<img src="./player.jpg" width="250"/>
+  <img src="screenshots/player.jpg" width="280"/>
 </p>
 
 ---
-
-## Podcasts
-
-<p align="center">
-<img src="./podcas.jpg" width="250"/>
-</p>
-
----
-
-## Library
-
-<p align="center">
-<img src="./lib.jpg" width="250"/>
-</p>
-
----
-
-## User Profile
-
-<p align="center">
-<img src="./profile.jpg" width="250"/>
-</p>
-
----
-
-# 🚀 Core Features
-
-<table>
-<tr>
-<td width="50%">
-
-## 🎵 Music Streaming
-
-* High Quality Playback
-* Queue Management
-* Floating Mini Player
-* Background Audio
-* Smooth Seek Controls
-* Playlist Support
-
-</td>
-
-<td width="50%">
 
 ## 🎙 Podcast Streaming
 
-* YouTube Integration
-* HD Playback
-* Playback Speed Controls
-* Fullscreen Support
-* Podcast Discovery
-* Category Browsing
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🤖 AI DJ
-
-* Smart Recommendations
-* Mood Detection
-* Personalized Queues
-* Listening Analysis
-* Dynamic Suggestions
-
-</td>
-
-<td>
-
-## 🎤 Voice Search
-
-* Speech Recognition
-* Artist Lookup
-* Podcast Discovery
-* Hands-Free Navigation
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="screenshots/podcas.jpg" width="280"/>
+</p>
 
 ---
 
-# 🎨 Premium UI Experience
+## 📚 Library
 
-Melofy features a fully custom Cyberpunk design language:
+<p align="center">
+  <img src="screenshots/lib.jpg" width="280"/>
+</p>
 
-### Glassmorphism Components
+---
 
-* Frosted glass cards
-* Blur effects
-* Transparent layers
+## 👤 User Profile
 
-### Cyberpunk Visual Effects
+<p align="center">
+  <img src="screenshots/profile.jpg" width="280"/>
+</p>
 
-* Neon glow borders
-* Dynamic gradients
-* Ambient animations
+---
+
+# ✨ Key Features
+
+## 🎵 Music Streaming
+
+* High quality audio playback
+* Queue management
+* Background playback
+* Floating mini-player
+* Animated seek controls
+* Playlist support
+
+## 🎙 Podcast Platform
+
+* Podcast discovery
+* YouTube integration
+* HD playback support
+* Playback speed controls
+* Fullscreen support
+
+## 🤖 AI DJ Assistant
+
+* Personalized recommendations
+* Mood-based suggestions
+* Dynamic queue generation
+* Smart listening insights
+
+## 🎤 Voice Search
+
+* Speech-to-text support
+* Artist discovery
+* Hands-free navigation
+* Quick search experience
+
+## 🎨 Cyberpunk UI
+
+* Glassmorphism cards
+* Neon glow effects
+* Animated gradients
+* Dynamic transitions
 * Modern typography
-
-### Motion Design
-
-* Animated transitions
-* Interactive micro-animations
-* Breathing gradient backgrounds
-* Floating UI elements
+* Smooth Compose animations
 
 ---
 
 # 🏗 Architecture
+
+Melofy follows **MVVM + Clean Architecture** principles.
 
 ```text
 Presentation Layer
@@ -221,15 +164,15 @@ Presentation Layer
 │
 Domain Layer
 │
+├── Models
 ├── Use Cases
 ├── Repository Contracts
-├── Business Models
 │
 Data Layer
 │
 ├── Repository Implementations
-├── Data Sources
-├── Media Services
+├── Local Data Sources
+├── Remote Data Sources
 │
 Infrastructure
 │
@@ -237,7 +180,7 @@ Infrastructure
 ├── Coroutines
 ├── Flow
 ├── Coil
-└── WebView Integration
+└── Media Services
 ```
 
 ---
@@ -274,10 +217,10 @@ app/
 
 # 🛠 Tech Stack
 
-| Technology         | Usage                |
+| Technology         | Purpose              |
 | ------------------ | -------------------- |
 | Kotlin             | Main Language        |
-| Jetpack Compose    | UI Framework         |
+| Jetpack Compose    | Modern UI            |
 | Material 3         | Design System        |
 | Hilt               | Dependency Injection |
 | Coroutines         | Async Programming    |
@@ -285,11 +228,11 @@ app/
 | Navigation Compose | Navigation           |
 | Coil               | Image Loading        |
 | WebView            | Podcast Playback     |
-| YouTube API        | Podcast Streaming    |
+| YouTube Iframe API | Video Streaming      |
 
 ---
 
-# ⚡ Installation
+# 🚀 Getting Started
 
 ## Clone Repository
 
@@ -297,7 +240,7 @@ app/
 git clone https://github.com/OverflowX-tech/melofy.git
 ```
 
-## Open Project
+## Navigate to Project
 
 ```bash
 cd melofy
@@ -309,11 +252,20 @@ cd melofy
 ./gradlew build
 ```
 
-## Install APK
+## Install Debug APK
 
 ```bash
 ./gradlew installDebug
 ```
+
+---
+
+# 📋 Requirements
+
+* Android Studio Jellyfish+
+* JDK 17+
+* Android SDK 34+
+* Gradle 8+
 
 ---
 
@@ -322,23 +274,23 @@ cd melofy
 * [ ] Spotify Integration
 * [ ] Dynamic Lyrics
 * [ ] Offline Downloads
-* [ ] Android Auto
+* [ ] Android Auto Support
 * [ ] Wear OS Support
+* [ ] Material You Themes
 * [ ] Cloud Sync
 * [ ] Social Sharing
-* [ ] Material You Themes
 
 ---
 
-# 🤝 Contributions
+# 🤝 Contributing
 
-Contributions, feature requests, and pull requests are welcome.
+Contributions are welcome.
 
-1. Fork Repository
-2. Create Feature Branch
-3. Commit Changes
-4. Push Changes
-5. Open Pull Request
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to GitHub
+5. Open a Pull Request
 
 ---
 
@@ -354,4 +306,4 @@ MIT License
 
 Building modern Android experiences with Kotlin and Jetpack Compose.
 
-⭐ If you like Melofy, consider starring the repository.
+⭐ If you like this project, consider giving it a star.
